@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **App and Web development**
 
-- 👨‍💻 All of my projects are available at [[https://personal-portfolio-kohl-sigma.vercel.app/](https://personal-portfolio-kohl-sigma.vercel.app/)](https://ankush-virid.vercel.app/)
+- 👨‍💻 All of my projects are available at (https://ankush-virid.vercel.app/)
 
 - 💬 Ask me about **Android, Java,Kotlin, React, Cloud, AWS**
 
