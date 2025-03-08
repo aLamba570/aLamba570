@@ -2,15 +2,15 @@
 <h3 align="center">A passionate Software Engineer from India</h3>
 
 
-- 🔭 I’m currently working on **DevOps CI/CD project**
+- 🔭 I’m currently working on **Machine Learning**
 
-- 🌱 I’m currently learning **Cloud Technologies**
+- 🌱 I’m currently learning **MLOps Technologies**
 
 - 👯 I’m looking to collaborate on **App and Web development**
 
 - 👨‍💻 All of my projects are available at (https://ankush-virid.vercel.app/)
 
-- 💬 Ask me about **Android, Java,Kotlin, React, Cloud, AWS**
+- 💬 Ask me about **Android, Java, Kotlin, React, Cloud, AWS**
 
 - 📫 How to reach me **alamba570@gmail.com**
 
